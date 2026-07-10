@@ -1,2 +1,1 @@
-# GGSernBooster
-Fps/Ping Booster
+Password: GGSernBooster
